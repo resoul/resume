@@ -10,7 +10,6 @@
 **OnboardingKit** is a modern, flexible iOS library for creating beautiful onboarding experiences. Built with UIKit, Texture (AsyncDisplayKit), and Combine, it provides smooth animations and customizable intro screens for your app.
 
 ## ✨ Features
-
 - 🎨 **Fully Customizable** - Colors, fonts, images, and animations
 - 🔄 **Multiple Transition Styles** - Fade, slide, scale, and custom animations
 - 📱 **Modern Architecture** - MVVM pattern with Combine framework
